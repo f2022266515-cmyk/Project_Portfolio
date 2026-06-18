@@ -1,0 +1,9 @@
+flask
+flask-socketio
+pymongo
+dnspython
+eventlet
+gunicorn
+requests
+opencv-python-headless
+google-generativeai
