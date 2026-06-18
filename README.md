@@ -44,5 +44,3 @@ I engineered and managed the web-based infrastructure for this project to transi
 * `dms_core.py`: Showcases the localized AI/ML tracking and alert logic used in the system pipeline.
 
 ---
-
-theek hai?
